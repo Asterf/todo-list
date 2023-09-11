@@ -1,0 +1,6 @@
+#tareasPendientes{       
+    max-width: 500px;   
+    border: red 2px solid;
+    margin-top: 30px;
+    padding: 0px 5px 10px 10px;
+}
